@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+- 🔭 今は公立小学校で教員をしています。子どもと関わるのは楽しいですが、ウェブ制作、プログラミングを仕事にしようとしています。
+- 🌱 HTML,CSSの後、RubyonRailsの勉強をしました。今は、コーディングの練習に加え、JavaScript、Reactなどを学んでいます。
+
 <!--
 **sonho463/sonho463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 今は公立小学校で教員をしています。子どもと関わるのは楽しいですが、ウェブ制作、プログラミングを仕事にしようとしています。
+- 🌱 HTML,CSSの後、RubyonRailsの勉強をしました。今は、コーディングの練習に加え、JavaScript、Reactなどを学んでいます。
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
