@@ -2,9 +2,9 @@
 
 - 🔭 今は公立小学校で教員をしています。子どもと関わるのは楽しいです。
 - 📫 ウェブ制作承り中。連絡はTwitterDM
-  -　GtasbyJSで表示が早くて、SEOに強くて、安全なサイト構築
-  -　HTML，CSSでの静的サイト
-  -　WordPressでのサイト構築  
+  - GtasbyJSで表示が早くて、SEOに強くて、安全なサイト構築
+  - HTML，CSSでの静的サイト
+  - WordPressでのサイト構築  
 - 🌱 これまでの学習内容
   - HTML,CSS
   - RubyonRails(ProgateWeb開発パス、Railsチュートリアル)
