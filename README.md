@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 今は公立小学校で教員をしています。子どもと関わるのは楽しいです。
-- 📫 ウェブ制作承り中。連絡はTwitterDM
+- 📫 ウェブ制作承り中。連絡は[TwitterDM](https://twitter.com/horumont)まで
   - GtasbyJSで表示が早くて、SEOに強くて、安全なサイト構築
   - HTML，CSSでの静的サイト
   - WordPressでのサイト構築  
