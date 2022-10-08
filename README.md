@@ -12,7 +12,7 @@
   - GtabyJSでのサイト構築
 - 👯 40代以上のWeb開発者のコミュニテイ[Over40WebClub](https://over40webclub.netlify.app/)に入っています。
 - 💬 いろいろな人とコミュニケーションをとっていきたいです。よろしくおねがいします！
-- 😄[ポートフォリオサイト](https://portfolio.horumont.info.app) / 😄[twitter](https://twitter.com/horumont) / 😄[ぼちぼちブログ](https://horumont.info)
+- 😄[ポートフォリオサイト](https://portfolio.horumont.info) / 😄[twitter](https://twitter.com/horumont) / 😄[ぼちぼちブログ](https://horumont.info)
 
 <!--
 **sonho463/sonho463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
