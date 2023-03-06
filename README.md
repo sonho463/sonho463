@@ -10,6 +10,8 @@
   - RubyonRails(ProgateWeb開発パス、Railsチュートリアル)
   - JavaScript、React
   - GtabyJSでのサイト構築
+  - Astroでのサイト構築
+  - ヘッドレスCMSでコンテンツ更新可能なサイト
 - 👯 40代以上のWeb開発者のコミュニテイ[Over40WebClub](https://over40webclub.netlify.app/)に入っています。
 - 💬 いろいろな人とコミュニケーションをとっていきたいです。よろしくおねがいします！
 - 😄[ポートフォリオサイト](https://portfolio.horumont.info) / 😄[twitter](https://twitter.com/horumont) / 😄[ぼちぼちブログ](https://horumont.info)
