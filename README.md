@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 今は公立小学校で教員をしています。子どもと関わるのは楽しいです。
+- 🔭 2023.3、23年ほど務めた公立小学校で教員を退職。WEBの個人事業主。
 - 📫 ウェブ制作承り中。連絡は[TwitterDM](https://twitter.com/horumont)まで
   - GtasbyJSでのサイト構築
   - HTML，CSSでの静的サイト
